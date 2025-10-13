@@ -3,7 +3,7 @@
 <div align="center">Engenheira de Controle e Automação pela UFMT. Me encontrando no mundo da programação, sempre busco aprender novas habilidades para alcançar os meus objetivos para me tornar cientista de dados. </div>
 <div align="center"> 
 
-  ![Snake animation](https://github.com/carlavsoares/carlavsoares/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cvsoares/cvsoares/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -25,8 +25,8 @@ https://github.com/cvsoares
 
 <div align="center">
   <a href="https://github.com/carlavsoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlavsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlavsoares&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvsoares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
