@@ -16,7 +16,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: carlavsoares
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake.gif
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
