@@ -45,6 +45,6 @@ https://github.com/carlavsoares
 
 <div align="center"> 
 
-  ![Snake animation](https://github.com/carlavsoares/carlavsoares/blob/output/github-contribution-grid-snake2.gif)
+  ![snake animation](https://github.com/carlavsoares/carlavsoares/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
