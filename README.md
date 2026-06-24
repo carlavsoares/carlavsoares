@@ -3,6 +3,13 @@
 <div align="center">Engenheira de Controle e Automação (UFMT) e pós-graduada em Ciência de Dados e Big Data (PUC Minas). Curiosa por natureza e apaixonada por tecnologia, adoro explorar novas ferramentas e linguagens de programação, sempre buscando transformar dados em soluções inteligentes que apoiem a tomada de decisão.
  </div>
 
+
+<div align="center"> 
+
+  ![snake animation](https://github.com/carlavsoares/carlavsoares/blob/output/github-contribution-grid-snake2.svg)
+
+</div>
+
 ## 🚀 Skills
 
 <div align="center">
@@ -43,8 +50,3 @@ https://github.com/carlavsoares
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvsoares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center"> 
-
-  ![snake animation](https://github.com/carlavsoares/carlavsoares/blob/output/github-contribution-grid-snake2.svg)
-
-</div>
