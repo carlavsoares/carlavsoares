@@ -4,11 +4,6 @@
  </div>
 
 
-<div align="center"> 
-
-  ![snake animation](https://github.com/carlavsoares/carlavsoares/blob/output/github-contribution-grid-snake2.svg)
-
-</div>
 
 ## 🚀 Skills
 
@@ -41,6 +36,12 @@
 https://github.com/carlavsoares
 ## 📫 Contato
 --->
+
+<div align="center"> 
+
+  ![snake animation](https://github.com/carlavsoares/carlavsoares/blob/output/github-contribution-grid-snake2.svg)
+
+</div>
 
 ## 📊 Estatísticas do GitHub
 
